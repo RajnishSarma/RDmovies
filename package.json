@@ -1,0 +1,17 @@
+{
+  "name": "moviewebsiteproject.github.io-main",
+  "version": "1.0.0",
+  "description": "A webpage to search for movies!  User can search for movie titles in order to view poster images, movie details, and movie ratings.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "node": "^18.10.0",
+    "request": "^2.88.2"
+  }
+}
